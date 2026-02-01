@@ -18,3 +18,4 @@ Wayfarer’s Hub is a modern, fully responsive travel agency website designed to
 •⁠  ⁠*JavaScript (Vanilla):* Interactive components and slider logic.
 •⁠  ⁠*Swiper.js:* Library used for responsive touch sliders.
 
+## Github repo clone: gh repo clone daspritika08/Wayfarer-s-HUB
